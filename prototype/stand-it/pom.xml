@@ -6,7 +6,7 @@
     <parent>
         <groupId>de.akquinet.android.stand</groupId>
         <artifactId>stand-project</artifactId>
-        <version>0.0.1-SNAPSHOT-SNAPSHOT</version>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
 
     <artifactId>stand-it</artifactId>
@@ -19,13 +19,13 @@
             <groupId>de.akquinet.android.stand</groupId>
             <artifactId>stand-main</artifactId>
             <type>apk</type>
-            <version>0.0.1-SNAPSHOT-SNAPSHOT</version>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>de.akquinet.android.stand</groupId>
             <artifactId>stand-main</artifactId>
             <type>jar</type>
-            <version>0.0.1-SNAPSHOT-SNAPSHOT</version>
+            <version>0.0.1-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>de.akquinet.android.marvin</groupId>

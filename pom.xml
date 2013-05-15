@@ -23,7 +23,7 @@
 
   <groupId>de.akquinet.android.archetypes</groupId>
   <artifactId>stand-archetype</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>Akquinet Android Archetype - stand-archetype</name>
   <description>Creates a skeleton for an Android application using the Stand framework stack</description>
   

@@ -4,7 +4,7 @@
 
     <groupId>de.akquinet.android.stand</groupId>
     <artifactId>stand-project</artifactId>
-    <version>0.0.1-SNAPSHOT-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <parent>
@@ -21,6 +21,12 @@
         <name>akquinet tech@spree Gmbh</name>
         <url>http://www.akquinet.de/en</url>
     </organization>
+
+    <scm>
+        <connection>scm:git:git@github.com:akquinet/stand-archetype.git</connection>
+        <url>git@github.com:akquinet/stand-archetype.git</url>
+        <developerConnection>scm:git:git@github.com:akquinet/stand-archetype.git</developerConnection>
+    </scm>
 
     <modules>
         <module>stand-main</module>
